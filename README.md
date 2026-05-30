@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="AppPin logo" width="480">
+</p>
+
 # app-pin
 
 A small Ubuntu GUI that turns any executable + image into a proper desktop

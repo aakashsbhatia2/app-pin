@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="40 30 240 240" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>AppPin icon</title>
+  <desc>AppPin icon: a rounded square with a 2x2 app grid and a pin</desc>
+
+  <!-- Icon background rounded square -->
+  <rect x="60" y="50" width="200" height="200" rx="44" fill="#3C3489"/>
+
+  <!-- 2x2 app grid dots -->
+  <rect x="100" y="95" width="38" height="38" rx="9" fill="#AFA9EC"/>
+  <rect x="148" y="95" width="38" height="38" rx="9" fill="#AFA9EC"/>
+  <rect x="100" y="143" width="38" height="38" rx="9" fill="#AFA9EC"/>
+  <rect x="148" y="143" width="38" height="38" rx="9" fill="#7F77DD"/>
+
+  <!-- Pin head -->
+  <circle cx="196" cy="106" r="28" fill="#FAEEDA"/>
+  <circle cx="196" cy="106" r="18" fill="#BA7517"/>
+
+  <!-- Pin needle -->
+  <line x1="183" y1="120" x2="148" y2="218" stroke="#FAEEDA" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="148" cy="218" r="5" fill="#FAEEDA"/>
+</svg>

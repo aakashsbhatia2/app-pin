@@ -1,0 +1,32 @@
+<svg width="100%" viewBox="0 0 680 340" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>AppPin logo</title>
+  <desc>AppPin app logo featuring a rounded square icon with a pin and app grid, plus the wordmark</desc>
+
+  <style>
+    .wordmark { font-family: sans-serif; font-weight: 500; font-size: 52px; fill: #1a1a1a; }
+    .sub { font-family: sans-serif; font-weight: 400; font-size: 18px; fill: #666; letter-spacing: 0.12em; }
+  </style>
+
+  <!-- Icon background rounded square -->
+  <rect x="60" y="50" width="200" height="200" rx="44" fill="#3C3489"/>
+
+  <!-- 2x2 app grid dots -->
+  <rect x="100" y="95" width="38" height="38" rx="9" fill="#AFA9EC"/>
+  <rect x="148" y="95" width="38" height="38" rx="9" fill="#AFA9EC"/>
+  <rect x="100" y="143" width="38" height="38" rx="9" fill="#AFA9EC"/>
+  <rect x="148" y="143" width="38" height="38" rx="9" fill="#7F77DD"/>
+
+  <!-- Pin head -->
+  <circle cx="196" cy="106" r="28" fill="#FAEEDA"/>
+  <circle cx="196" cy="106" r="18" fill="#BA7517"/>
+
+  <!-- Pin needle -->
+  <line x1="183" y1="120" x2="148" y2="218" stroke="#FAEEDA" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="148" cy="218" r="5" fill="#FAEEDA"/>
+
+  <!-- Wordmark -->
+  <text x="296" y="168" class="wordmark">AppPin</text>
+
+  <!-- Tagline -->
+  <text x="298" y="204" class="sub">desktop shortcuts for AppImages</text>
+</svg>
